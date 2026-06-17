@@ -5,7 +5,7 @@ This is a video game designed to be a thank-you to **MGM** for making The Pink P
 if you are a person who knows the sm64 decomp better than I do, please contribute!
 
 
-
+Below is the og description from the repo forked.
 
 
 # Super Mario 64
