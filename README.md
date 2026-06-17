@@ -1,3 +1,13 @@
+# Pink Panther 64
+This is a video game designed to be a thank-you to **MGM** for making The Pink Panther.
+
+##Help wanted!!
+if you are a person who knows the sm64 decomp better than I do, please contribute!
+
+
+
+
+
 # Super Mario 64
 
 - This repo contains a full decompilation of Super Mario 64 of the following releases: Japan (jp), North America (us), Europe (eu), Shindou (sh) and iQue Player (cn).
